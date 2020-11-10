@@ -1,9 +1,9 @@
 # cv
 1. **Andrei ZUBIK**
 2. **Contacts:**
-- Mail: [azubik1982@gmail.com](https://azubik1982@gmail.com)  
-- Git: [azubik1982](https://github.com/azubik1982)  
-- LinkedIn: [andrei-zubik](https://linkedin.com/in/andrei-zubik-373b271ba)  
+- Mail: [azubik1982@gmail.com](https://azubik1982@gmail.com)
+- Git: [azubik1982](https://github.com/azubik1982)
+- LinkedIn: [andrei-zubik](https://linkedin.com/in/andrei-zubik-373b271ba)
 - Phone: +375(29)175-00-39
 3. **Summary:**  
    *Electrical-engineer adjuster of control systems, with 5 years of managerial experience and a great desire to change his life*
