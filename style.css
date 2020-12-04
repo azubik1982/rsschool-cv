@@ -1,0 +1,79 @@
+﻿body {
+    margin: 0 auto;
+    width: 800px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    background:#6699CC;
+    padding: 10px;
+}
+header {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    margin-left: 10px;
+}
+.imgUlSum {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-start;
+    padding: 10px;
+    justify-content: space-between;
+}
+img {
+    padding: 10px;
+    width: 35%;
+    height: 35%;
+    margin-right: 20px;
+}
+ .contacts {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+.contacts li {
+   display: flex;
+   align-items: center;
+   padding: 5px;
+}
+.fa-envelope-square {
+    font-size: 50px;
+    padding: 10px;
+}
+.fa-git-square {
+    font-size: 50px;
+    padding: 10px;
+}
+.fa-linkedin {
+    font-size: 50px;
+    padding: 10px;
+}
+.fa-phone-square-alt {
+    font-size: 50px;
+    padding: 10px;
+}
+#summary {
+    flex-basis: 20%;
+    margin: 0%;
+}
+.skillsAndOther {
+    display: flex;
+    /* align-items: flex-start; */
+    flex-direction: row;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+ section {
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
